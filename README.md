@@ -32,3 +32,5 @@ Pytest-TDD/
     test_calculadora.py::TestCalculadora::test_multiplicacao PASSED
     test_calculadora.py::TestCalculadora::test_divisao PASSED
     test_calculadora.py::TestCalculadora::test_divisao_por_zero PASSED
+
+    ![alt text](image.png)
