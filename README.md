@@ -28,4 +28,3 @@ Criar uma classe *Calculadora* aplicando o ciclo do **TDD**:
     test_calculadora.py::TestCalculadora::test_divisao PASSED
     test_calculadora.py::TestCalculadora::test_divisao_por_zero PASSED
 
-![Execução dos testes](assets/image.png)
