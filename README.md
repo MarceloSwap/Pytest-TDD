@@ -1,6 +1,6 @@
 # Pytest-TDD
 
-Este é um pequeno projeto em **Python** para praticar **TDD (Test Driven Development)** com `pytest`.
+Projeto em **Python** para praticar **TDD (Test Driven Development)** com `pytest`.
 
 ## Objetivo
 Criar uma classe *Calculadora* aplicando o ciclo do **TDD**:
@@ -11,11 +11,6 @@ Criar uma classe *Calculadora* aplicando o ciclo do **TDD**:
 4. **Reexecutar os testes** até que todos passem.
 5. **Refatorar se necessário**.
 
-## Estrutura do Projeto
-
-Pytest-TDD/
-│── calculadora.py # Implementação da classe Calculadora
-│── test_calculadora.py # Testes unitários com pytest
 
 ## Como rodar
 
